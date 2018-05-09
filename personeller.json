@@ -1,0 +1,28 @@
+    {
+	"personel": [
+        {
+            "ad": "Anı Fahri",
+            "soyad": "Yılmaz",
+            "bolum": "Yazılım Gelistirme",
+            "maas": 2950,
+            "yas": 24,
+            "cinsiyet": "e"
+        },
+		{
+            "ad": "Ayşe",
+            "soyad": "Ozkul",
+            "bolum": "Mobil Gelistirme",
+            "maas": 3150,
+            "yas": 26,
+            "cinsiyet": "k"
+        },
+				{
+            "ad": "Elif",
+            "soyad": "Genc",
+            "bolum": "Proje Yoneticisi",
+            "maas": 3850,
+            "yas": 27,
+            "cinsiyet": "k"
+        }
+		]
+		}
